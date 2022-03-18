@@ -637,6 +637,10 @@ section {
   .contact .row {   
     gap:4rem;   
   }
+
+  .contact .row .map{
+    height: unset;
+  }
  
 }
 
